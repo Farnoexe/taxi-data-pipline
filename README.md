@@ -11,7 +11,7 @@ Understand trip patterns and revenue drivers to inform pricing strategies and op
 ## 🏗️ Architecture
 ![Architecture](Images/architecture.png)
 
-Note: The S3 bucket name ('metroville-traffic-analytics') is reused across multiple projects in this portfolio for consistency and to simulate a shared data lake environment. Each project is isolated using distinct folder paths.
+Note: The S3 bucket name 'metroville-traffic-analytics' is reused across multiple projects in this portfolio for consistency and to simulate a shared data lake environment. Each project is isolated using distinct folder paths.
 
 ---
 
