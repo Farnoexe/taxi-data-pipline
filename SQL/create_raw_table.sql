@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE taxi_raw_data_v3 (
+CREATE EXTERNAL TABLE taxi_raw_data (
     pickup STRING,
     dropoff STRING,
     passengers INT,
